@@ -1,5 +1,3 @@
 # 100 Projects
 
-My 100 micro projects.
-
-Some fun, novel projects.
+My 100 days
